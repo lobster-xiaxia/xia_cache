@@ -1,3 +1,3 @@
-module xia_cache
+module lru
 
 go 1.25.0

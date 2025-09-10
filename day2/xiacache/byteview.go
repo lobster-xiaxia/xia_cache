@@ -1,4 +1,4 @@
-package day2
+package xiacache
 
 // 缓存值的抽象与封装
 type ByteView struct {

@@ -1,9 +1,9 @@
-package day2
+package xiacache
 
 // 并发控制
 import (
-	"day2/lru"
 	"sync"
+	"xiacache/lru"
 )
 
 type cache struct {

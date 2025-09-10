@@ -1,4 +1,4 @@
-package day2
+package xiacache
 
 import (
 	"fmt"
